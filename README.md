@@ -6,4 +6,4 @@ This is a simple single page web ap=lication built with pure HTML, CSS, JS durin
 Simply, press shown keys on the keeyboard, and make a fantastic music
 
 ## Deployment
-Checkout the deploymeny [here]()
+Checkout the deploymeny [here](https://javokhirbek2000.github.io/DrumKit/)
